@@ -1,5 +1,4 @@
 
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThyO7TyVdMXofrYx0nTM-gxSxVY1SMr-M6eg&s)]
 <h1 align="center">Hi 👋, I'm Arjun krishna p</h1>
 <h3 align="center">A passionate MEARN STACK developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif">
